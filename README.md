@@ -1,8 +1,8 @@
 # Lernperiode10
 
-## Plannung Lernattelier 
+# Plannung Lernattelier 
 
-# 02.05.202 Arbeitspakete
+## 02.05.202 Arbeitspakete
 
 - [ ] Ideen suche für meine Bewerbungswebseite
 - [ ] Umstetzen der Ideen Unterwebseite über mich 
