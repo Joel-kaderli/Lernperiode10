@@ -16,3 +16,7 @@
 - [ ] projekte Webseite verbessern, Doku schreiben zu den Projekten
 - [ ] Hauptseite Bild einfügen, kleinen Willkomenstext schreiben
 - [ ] Kontak hinzufügen, und allgemeine verbesserung am css file
+
+## 23.05.2025 Arbeitspakete 
+- [ ] Die Letzen Fehler Behben auf der Bewerbungswebseite
+- [ ] Webseite publischen
