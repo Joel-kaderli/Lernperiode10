@@ -20,3 +20,9 @@
 ## 23.05.2025 Arbeitspakete 
 - [ ] Die Letzen Fehler Behben auf der Bewerbungswebseite
 - [ ] Webseite publischen
+
+## 05.06.2025 Arbeitspakete 
+
+- [ ] Rechtschreib Fehler gefunden auf der Bewerbungswebseite diese Beheben
+- [ ] Finanztracker fertigstellen 
+- [ ] Neue Projekt unterseite erstellen Finanztracker
