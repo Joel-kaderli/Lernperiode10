@@ -26,3 +26,10 @@
 - [ ] Rechtschreib Fehler gefunden auf der Bewerbungswebseite diese Beheben
 - [ ] Finanztracker fertigstellen 
 - [ ] Neue Projekt unterseite erstellen Finanztracker
+
+
+## 12.06.2025 Arbeitspakete 
+
+- [ ] M306 Dokumentation schrieben, Testfälle + Testbericht
+- [ ] M254 Auftrag Nachholen, Geschäftprozess erstellen
+
