@@ -28,8 +28,18 @@
 - [ ] Neue Projekt unterseite erstellen Finanztracker
 
 
+
+
 ## 12.06.2025 Arbeitspakete 
 
 - [ ] M306 Dokumentation schrieben, Testfälle + Testbericht
 - [ ] M254 Auftrag Nachholen, Geschäftprozess erstellen
+
+## 20.06.2025
+
+- [ ] M165 skallirung für LB machen Doku 
+- [ ] M306 Powerpoint erstellen für das Vorstellen des Projekts.
+
+
+
 
